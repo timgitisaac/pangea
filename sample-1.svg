@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Sample gallery image one">
+  <rect width="1200" height="900" fill="#e8d4b7" />
+  <circle cx="250" cy="220" r="110" fill="#c97b32" />
+  <circle cx="900" cy="180" r="80" fill="#f9f1e6" />
+  <rect x="140" y="430" width="920" height="260" rx="30" fill="#fff7ed" />
+  <text x="600" y="560" text-anchor="middle" font-family="Georgia, serif" font-size="72" fill="#5b3920">Your Photo Here</text>
+  <text x="600" y="635" text-anchor="middle" font-family="Georgia, serif" font-size="34" fill="#8c6a49">Upload a real image and update photos.js</text>
+</svg>

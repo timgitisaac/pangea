@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Sample gallery image two">
+  <rect width="1200" height="900" fill="#f6efe3" />
+  <path d="M0 690 C220 540 380 760 610 630 C810 520 975 680 1200 560 L1200 900 L0 900 Z" fill="#d09a63" />
+  <path d="M0 770 C180 680 360 820 600 720 C860 615 980 760 1200 680 L1200 900 L0 900 Z" fill="#ab6a2a" />
+  <text x="600" y="210" text-anchor="middle" font-family="Georgia, serif" font-size="78" fill="#533521">Simple GitHub Photo Site</text>
+  <text x="600" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="36" fill="#7d5b3d">We can swap this for your own photos anytime.</text>
+</svg>
